@@ -25,4 +25,13 @@ The dataset includes the following columns:
 - **Medical Test Results**: Heart Rate, ECG, Chest Pain, Oxygen Levels, Triglycerides.
 - **Heart Attack Likelihood**: "Yes" or "No" indicating whether the individual had a heart attack.
 
+## recommendations
+Increase Physical Activity: Encourage regular exercise, especially for sedentary individuals.<br>
+Promote Healthy Diets: Shift to vegetarian or vegan diets to lower heart attack risk.<br>
+Regular Health Check-ups: Monitor cholesterol and ECG for early detection of risk.<br>
+Anti-Smoking Campaigns: Focus on reducing smoking among young people.<br>
+Health Policies: Support healthier eating and provide access to fitness facilities.<br>
 
+
+## Conclusion:
+Around 20.38% of young people in India (ages 18-35) are at risk of heart attacks. Smoking, lack of physical activity, and poor diet (especially non-vegetarian) are major contributors to this risk. Men have a slightly higher risk than women. Abnormal ECG results and high cholesterol are also linked to increased heart attack risk.
