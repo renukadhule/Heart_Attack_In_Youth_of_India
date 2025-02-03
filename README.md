@@ -1,5 +1,7 @@
 # Heart Attack Risk Analysis in Young People in India
 
+<img src = "https://www.yashodahealthcare.com/blogs/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-20-at-16.23.47.jpeg" width = "1090" height = "360">
+
 ## Project Overview
 This report provides an in-depth analysis of the risk factors influencing heart attacks in young people (ages 18-35) in India. The dataset encompasses demographic, lifestyle, medical, and clinical test information, allowing for a deeper exploration of connections between various factors and heart attack risks.
 
