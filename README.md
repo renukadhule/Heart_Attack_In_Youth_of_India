@@ -33,3 +33,7 @@ The dataset includes the following columns:
 
 ## Conclusion:
 Around 20.38% of young people in India (ages 18-35) are at risk of heart attacks. Smoking, lack of physical activity, and poor diet (especially non-vegetarian) are major contributors to this risk. Men have a slightly higher risk than women. Abnormal ECG results and high cholesterol are also linked to increased heart attack risk.
+
+## Dashboard
+![Image](https://github.com/renukadhule/Heart_Attack_In_Youth_of_India/blob/main/Snapshot/First.png?raw=true)<br><br>
+![Image](https://github.com/renukadhule/Heart_Attack_In_Youth_of_India/blob/main/Snapshot/Second.png?raw=true)<br><br>
