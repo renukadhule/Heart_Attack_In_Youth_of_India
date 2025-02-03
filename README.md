@@ -17,15 +17,27 @@ The dataset includes the following columns:
   [get the data from here](https://www.kaggle.com/datasets/ankushpanday1/heart-attack-in-youth-of-india)
 
 ## Technologies Used
-- **Visualization**: Tableau
-- **Tools**: Excel
+- **Excel →** Data cleaning and preprocessing.
+- **Tableau →** Visualization and dashboard creation.
 
+## Methodology 
+**Data Cleaning →** Handling missing values, removing duplicates (using Excel).<br>
+**Exploratory Data Analysis (EDA) →** Identifying trends and risk factors.<br>
+**Visualization →** Creating interactive Tableau dashboards.<br>
+**Insights & Recommendations →** Understanding key risk patterns and suggesting preventive strategies.<br>
+ 
 ## KPIs and Analysis
 **Prevalence Rate**: Percentage of young people who had a heart attack.<br>
 **Prevalence Rate**: The percentage of the population at risk of heart attacks.<br>
 **Smoker Heart Attack Rate**: The correlation between smoking and the likelihood of heart attacks.<br>
 **Heart Attack Rate by Gender**: Distribution of heart attack risks across different genders.<br>
 **Cholesterol Level by Age Group**: Analysis of cholesterol levels across various age ranges (18-35).<br>
+
+## key Insights
+High stress levels, smoking, and lack of exercise significantly contribute to heart attack risk.<br>
+Urban areas show a higher incidence due to sedentary lifestyles.<br>
+Family history, high cholesterol, and obesity increase risk significantly.<br>
+Healthy lifestyle changes (balanced diet, regular exercise, and stress management) can lower risk.<br>
 
 ## Recommendations
 **Exercise More**: Encourage regular exercise, especially for those who don't move much.<br>
