@@ -1,17 +1,15 @@
 # Heart Attack Risk Analysis in Young People in India
 
 ## Project Overview
-The dataset contains data on factors influencing heart attack likelihood among youngsters in India (ages 18-35). It captures demographic, lifestyle, medical, and clinical test information. This rich dataset is designed to help explore the connections between these factors and heart attack risk in the young population. By analyzing these data points, we aim to identify key risk factors, understand patterns, and potentially help prevent heart attacks in young individuals.
-
+This report provides an in-depth analysis of the risk factors influencing heart attacks in young people (ages 18-35) in India. The dataset encompasses demographic, lifestyle, medical, and clinical test information, allowing for a deeper exploration of connections between various factors and heart attack risks.
 
 ## KPIs and Analysis
+**Prevalence Rate**: Percentage of young people who had a heart attack.<br>
+**Prevalence Rate**: The percentage of the population at risk of heart attacks.<br>
+**Smoker Heart Attack Rate**: The correlation between smoking and the likelihood of heart attacks.<br>
+**Heart Attack Rate by Gender**: Distribution of heart attack risks across different genders.<br>
+**Cholesterol Level by Age Group**: Analysis of cholesterol levels across various age ranges (18-35).<br>
 
-1. **Prevalence Rate**: Percentage of young people who had a heart attack.
-2. **Risk Factors**:
-   - Percentage of Smokers with High Heart Attack Risk
-   - Percentage of People with Hypertension at High Risk
-   - Percentage of People with High Cholesterol at High Risk
-3. **Correlation Analysis**: Analyzing the relationship between heart attack risk and factors like family history, high blood pressure, cholesterol, etc.
 
 ## Technologies Used
 - **Visualization**: Tableau
