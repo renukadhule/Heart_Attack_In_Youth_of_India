@@ -3,18 +3,6 @@
 ## Project Overview
 This report provides an in-depth analysis of the risk factors influencing heart attacks in young people (ages 18-35) in India. The dataset encompasses demographic, lifestyle, medical, and clinical test information, allowing for a deeper exploration of connections between various factors and heart attack risks.
 
-## KPIs and Analysis
-**Prevalence Rate**: Percentage of young people who had a heart attack.<br>
-**Prevalence Rate**: The percentage of the population at risk of heart attacks.<br>
-**Smoker Heart Attack Rate**: The correlation between smoking and the likelihood of heart attacks.<br>
-**Heart Attack Rate by Gender**: Distribution of heart attack risks across different genders.<br>
-**Cholesterol Level by Age Group**: Analysis of cholesterol levels across various age ranges (18-35).<br>
-
-
-## Technologies Used
-- **Visualization**: Tableau
-- **Tools**: Excel
-
 ## Dataset Information
 
 The dataset includes the following columns:
@@ -25,13 +13,23 @@ The dataset includes the following columns:
 - **Medical Test Results**: Heart Rate, ECG, Chest Pain, Oxygen Levels, Triglycerides.
 - **Heart Attack Likelihood**: "Yes" or "No" indicating whether the individual had a heart attack.
 
-## recommendations
+## Technologies Used
+- **Visualization**: Tableau
+- **Tools**: Excel
+
+## KPIs and Analysis
+**Prevalence Rate**: Percentage of young people who had a heart attack.<br>
+**Prevalence Rate**: The percentage of the population at risk of heart attacks.<br>
+**Smoker Heart Attack Rate**: The correlation between smoking and the likelihood of heart attacks.<br>
+**Heart Attack Rate by Gender**: Distribution of heart attack risks across different genders.<br>
+**Cholesterol Level by Age Group**: Analysis of cholesterol levels across various age ranges (18-35).<br>
+
+## Recommendations
 **Exercise More**: Encourage regular exercise, especially for those who don't move much.
 **Eat Healthy**: Promote vegetarian or vegan diets to reduce the risk of heart problems.
 **Check Health Regularly**: Keep track of cholesterol levels and ECG for early signs of risk.
 **Stop Smoking**: Work on reducing smoking among young people.
 **Support Healthy Living**: Make healthy food and fitness options easier for everyone.
-
 
 ## Conclusion:
 Around 20.38% of young people in India (ages 18-35) are at risk of heart attacks. Smoking, lack of physical activity, and poor diet (especially non-vegetarian) are major contributors to this risk. Men have a slightly higher risk than women. Abnormal ECG results and high cholesterol are also linked to increased heart attack risk.
