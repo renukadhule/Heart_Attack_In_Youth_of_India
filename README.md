@@ -26,11 +26,11 @@ The dataset includes the following columns:
 - **Heart Attack Likelihood**: "Yes" or "No" indicating whether the individual had a heart attack.
 
 ## recommendations
-Increase Physical Activity: Encourage regular exercise, especially for sedentary individuals.<br>
-Promote Healthy Diets: Shift to vegetarian or vegan diets to lower heart attack risk.<br>
-Regular Health Check-ups: Monitor cholesterol and ECG for early detection of risk.<br>
-Anti-Smoking Campaigns: Focus on reducing smoking among young people.<br>
-Health Policies: Support healthier eating and provide access to fitness facilities.<br>
+**Exercise More**: Encourage regular exercise, especially for those who don't move much.
+**Eat Healthy**: Promote vegetarian or vegan diets to reduce the risk of heart problems.
+**Check Health Regularly**: Keep track of cholesterol levels and ECG for early signs of risk.
+**Stop Smoking**: Work on reducing smoking among young people.
+**Support Healthy Living**: Make healthy food and fitness options easier for everyone.
 
 
 ## Conclusion:
