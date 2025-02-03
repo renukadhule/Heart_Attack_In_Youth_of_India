@@ -11,7 +11,8 @@ The dataset includes the following columns:
 - **Lifestyle Factors**: Smoking, Drinking, Diet, Exercise, Screen Time, Sleep.
 - **Health History**: Family Heart Disease, Diabetes, Blood Pressure, Cholesterol, BMI, Stress.
 - **Medical Test Results**: Heart Rate, ECG, Chest Pain, Oxygen Levels, Triglycerides.
-- **Heart Attack Likelihood**: "Yes" or "No" indicating whether the individual had a heart attack.
+- **Heart Attack Likelihood**: "Yes" or "No" indicating whether the individual had a heart attack.<br><br>
+  [get the data from here](https://www.kaggle.com/datasets/ankushpanday1/heart-attack-in-youth-of-india)
 
 ## Technologies Used
 - **Visualization**: Tableau
@@ -25,11 +26,11 @@ The dataset includes the following columns:
 **Cholesterol Level by Age Group**: Analysis of cholesterol levels across various age ranges (18-35).<br>
 
 ## Recommendations
-**Exercise More**: Encourage regular exercise, especially for those who don't move much.
-**Eat Healthy**: Promote vegetarian or vegan diets to reduce the risk of heart problems.
-**Check Health Regularly**: Keep track of cholesterol levels and ECG for early signs of risk.
-**Stop Smoking**: Work on reducing smoking among young people.
-**Support Healthy Living**: Make healthy food and fitness options easier for everyone.
+**Exercise More**: Encourage regular exercise, especially for those who don't move much.<br>
+**Eat Healthy**: Promote vegetarian or vegan diets to reduce the risk of heart problems.<br>
+**Check Health Regularly**: Keep track of cholesterol levels and ECG for early signs of risk.<br>
+**Stop Smoking**: Work on reducing smoking among young people.<br>
+**Support Healthy Living**: Make healthy food and fitness options easier for everyone.<br>
 
 ## Conclusion:
 Around 20.38% of young people in India (ages 18-35) are at risk of heart attacks. Smoking, lack of physical activity, and poor diet (especially non-vegetarian) are major contributors to this risk. Men have a slightly higher risk than women. Abnormal ECG results and high cholesterol are also linked to increased heart attack risk.
